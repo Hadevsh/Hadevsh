@@ -10,7 +10,7 @@ Hi! I'm Wiktor, a software developer who loves diving into the world of code, es
 - 🌱 I’m currently learning and exploring new technologies in AI and machine learning.
 - 👯 I’m looking to collaborate on open-source Python projects.
 - 💬 Ask me about Python, data science, or anything tech-related!
-- 📫 How to reach me: [errorflin@gmail.com](mailto:skrzynecki.dev@gmail.com)
+- 📫 How to reach me: [skrzynecki.dev@gmail.com](mailto:skrzynecki.dev@gmail.com)
 - ⚡ Fun fact: I can solve a Rubik's cube in under 1 minute! 🧩
 
 Also I know how to make websites, so HTML, CSS, and Js + React of course. Experimented a lot with Arduino.
