@@ -13,13 +13,12 @@ Hi! I'm Wiktor, a software developer who loves diving into the world of code, es
 - 📫 How to reach me: [skrzynecki.dev@gmail.com](mailto:skrzynecki.dev@gmail.com)
 - ⚡ Fun fact: I can solve a Rubik's cube in under 1 minute! 🧩
 
-Also I know how to make websites, so HTML, CSS, and Js + React of course. Experimented a lot with Arduino.
-My Second passion is also music production... 🎵
+Also, I know how to make websites in Full Stack Web Development area. I have experimented a lot with Arduino.
+In addition my Second passion is music production... 🎵
 
 ## 🛠️ Technologies & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pygame](https://img.shields.io/badge/-Pygame-3776AB?style=flat&logo=python&logoColor=white) <br />
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white) <br />
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -28,7 +27,6 @@ My Second passion is also music production... 🎵
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white) <br />
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ## 🏆 GitHub Stats
 
