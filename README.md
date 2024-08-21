@@ -14,7 +14,7 @@ Hi! I'm Wiktor, a software developer who loves diving into the world of code, es
 - ⚡ Fun fact: I can solve a Rubik's cube in under 1 minute! 🧩
 
 Also, I know how to make websites in Full Stack Web Development area. I have experimented a lot with Arduino.
-In addition my Second passion is music production... 🎵
+In addition my second passion is music production... 🎵
 
 ## 🛠️ Technologies & Tools
 
