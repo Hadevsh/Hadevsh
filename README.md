@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm SkrzyDev
+# Hey there! 👋 I'm Hadevsh
 *Wiktor Skrzynecki*
 
 🌟 **Passionate Python Developer | Tech Enthusiast | Lifelong Self Learner** 🌟
