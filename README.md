@@ -30,8 +30,8 @@ In addition my second passion is music production... 🎵
 
 ## 🏆 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SkrzyDev&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SkrzyDev&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hadevsh&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hadevsh&layout=compact&theme=radical)
 
 ## 💡 Quotes I Live By
 
@@ -43,4 +43,4 @@ In addition my second passion is music production... 🎵
 
 ---
 
-⭐️ From SkrzyDev (https://github.com/SkrzyDev)
+⭐️ From Hadevsh (https://github.com/Hadevsh)
