@@ -1,7 +1,7 @@
 # Hey there! 👋 I'm Hadevsh
 *Wiktor Skrzynecki* :poland:
 
-🌟 **Passionate Python Developer | Tech Enthusiast | Lifelong Self Learner** 🌟
+🌟 **Python and Web Developer** 🌟
 
 ## About Me
 
