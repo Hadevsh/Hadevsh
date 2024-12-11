@@ -13,7 +13,7 @@ Hi! I'm Wiktor, a software developer who loves diving into the world of code, es
 - 📫 How to reach me: [skrzynecki.dev@gmail.com](mailto:skrzynecki.dev@gmail.com)
 - ⚡ Fun fact: I can solve a Rubik's cube in under 1 minute! 🧩
 
-Also, I know how to make websites in Full Stack Web Development area. I have experimented a lot with Arduino.
+Also, I know how to make websites and apps in a Full Stack Web Development area. I have experimented a lot with Arduino.
 In addition my second passion is music production... 🎵
 
 ## 🛠️ Technologies & Tools
@@ -30,8 +30,11 @@ In addition my second passion is music production... 🎵
 
 ## 🏆 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hadevsh&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hadevsh&layout=compact&theme=radical)
+<div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hadevsh&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hadevsh&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hadevsh&theme=github_dark"/>
+</div>
 
 ## 💡 Quotes I Live By
 
@@ -44,3 +47,6 @@ In addition my second passion is music production... 🎵
 ---
 
 ⭐️ From Hadevsh (https://github.com/Hadevsh)
+
+<!--- Wave Animation --->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer"/>
