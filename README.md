@@ -34,6 +34,8 @@ In addition my second passion is music production... 🎵
 <div align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hadevsh&theme=github_dark"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hadevsh&theme=github_dark"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hadevsh&theme=github_dark&utcOffset=+1"/>
+  
 </div>
 
 ## 💡 Quotes I Live By
