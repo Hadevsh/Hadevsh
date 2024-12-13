@@ -30,10 +30,9 @@ In addition my second passion is music production... 🎵
 
 ## 🏆 GitHub Stats
 
-<div>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hadevsh&theme=github_dark"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hadevsh&theme=github_dark"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hadevsh&theme=github_dark"/>
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hadevsh&theme=github_dark"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hadevsh&theme=github_dark"/>
 </div>
 
 ## 💡 Quotes I Live By
@@ -49,4 +48,4 @@ In addition my second passion is music production... 🎵
 ⭐️ From Hadevsh (https://github.com/Hadevsh)
 
 <!--- Wave Animation --->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:7b64ed,100:428df5&section=footer"/>
