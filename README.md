@@ -1,11 +1,7 @@
-# Hey there! 👋 I'm Hadevsh
-*Wiktor Skrzynecki* :poland:
-
-🌟 **Python and Web Developer** 🌟
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:247cff,100:c824ff&text=Hadevsh&fontColor=fff&desc=Wiktor%20Skrzynecki&descAlignY=90">
 
 ## About Me
-
-Hi! I'm Wiktor, a software developer who loves diving into the world of code, especially Python. My journey in tech started with curiosity and has turned into a passion for creating, learning, and sharing knowledge. Here's a bit more about me:
+I'm a 16-year-old programmer from Poland, passionate about coding and technology as far as I can remember. I specialize in Python, Web Development, App Development, C++, and more. Currently, I'm diving deep into various programming courses, pushing my skills further every day. My goal is to pursue a Computer Science degree at the University.
 
 - 🌱 I’m currently learning and exploring new technologies in AI and machine learning.
 - 👯 I’m looking to collaborate on open-source Python projects.
@@ -13,7 +9,7 @@ Hi! I'm Wiktor, a software developer who loves diving into the world of code, es
 - 📫 How to reach me: [skrzynecki.dev@gmail.com](mailto:skrzynecki.dev@gmail.com)
 - ⚡ Fun fact: I can solve a Rubik's cube in under 1 minute! 🧩
 
-Also, I know how to make websites and apps in a Full Stack Web Development area. I have experimented a lot with Arduino.
+I have also experimented a lot with Arduino and some hardware. <br>
 In addition my second passion is music production... 🎵
 
 ## 🛠️ Technologies & Tools
@@ -51,4 +47,4 @@ In addition my second passion is music production... 🎵
 ⭐️ From Hadevsh (https://github.com/Hadevsh)
 
 <!--- Wave Animation --->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:7b64ed,100:428df5&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:c824ff,100:247cff&section=footer"/>
