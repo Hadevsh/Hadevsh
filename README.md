@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:247cff,100:c824ff&text=Hadevsh&fontColor=fff&desc=Wiktor%20Skrzynecki&descAlignY=90">
 
 ## About Me
-I'm a 16-year-old programmer from Poland, passionate about coding and technology as far as I can remember. I specialize in Python, Web Development, App Development, C++, and more. Currently, I'm diving deep into various programming courses, pushing my skills further every day. My goal is to pursue a Computer Science degree at the University.
+I'm a 16-year-old programmer from Poland, passionate about coding and technology as far as I can remember. I specialize in Python, Web Development, App Development, C++, and more. Currently, I'm diving deep into various programming courses, pushing my skills further every day. My goal is to pursue a Computer Science degree at University.
 
 - 🌱 I’m currently learning and exploring new technologies in AI and machine learning.
 - 👯 I’m looking to collaborate on open-source Python projects.
