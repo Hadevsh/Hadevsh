@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:247cff,100:c824ff&text=Hadevsh&fontColor=fff&desc=Wiktor%20Skrzynecki&descAlignY=90">
 
 ## About Me
-I'm a 16-year-old programmer from Poland, passionate about coding and technology as far as I can remember. I specialize in Python, Web Development, App Development, C++, and more. Currently, I'm diving deep into various programming courses, pushing my skills further every day. My goal is to pursue a Computer Science degree at University.
+I'm a 17-year-old programmer from Poland, passionate about coding and technology as far as I can remember. I specialize in Python, Web Development, App Development, C++, and more. Currently, I'm diving deep into various programming courses, pushing my skills further every day. My goal is to pursue a Computer Science degree at University.
 
 - 🌱 I’m currently learning and exploring new technologies in AI and machine learning.
 - 👯 I’m looking to collaborate on open-source Python projects.
@@ -20,7 +20,7 @@ In addition my second passion is music production... 🎵
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flate&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flate&logo=django&logoColor=white) <br />
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css&logoColor=white) 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) <br />
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
